@@ -33,3 +33,4 @@
 - [031 · 历史上的整型溢出：哪个数先装不下](notes/031-历史上整型溢出的惨剧案例.md)
 - [032 · unsigned int：为什么 −1 会打印成 4294967295](notes/032-unsigned-int.md)
 - [033 · short 与 unsigned short：存屏幕坐标和 RGB565 颜色](notes/033-short与unsigned-short.md)
+- [034 · long 与 long long：为什么同是 x64，long 的大小还会不同](notes/034-long与long-long及CPU架构.md)
