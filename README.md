@@ -32,3 +32,4 @@
 - [030 · 整型溢出：怎样判断 int 还能不能加一](notes/030-编程中的陷阱-理解整型溢出.md)
 - [031 · 历史上的整型溢出：哪个数先装不下](notes/031-历史上整型溢出的惨剧案例.md)
 - [032 · unsigned int：为什么 −1 会打印成 4294967295](notes/032-unsigned-int.md)
+- [033 · short 与 unsigned short：存屏幕坐标和 RGB565 颜色](notes/033-short与unsigned-short.md)
