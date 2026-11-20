@@ -40,3 +40,4 @@
 - [038 · 维护旧项目：什么时候保留 int，什么时候需要固定位宽](notes/038-历史项目遗留与整型选择.md)
 - [039 · 隐式与显式类型转换：int 存进 short，什么时候会变值](notes/039-隐式与显式类型转换.md)
 - [040 · 用 inttypes.h 打印定宽整数：为什么同一个 uint64_t 有两种格式](notes/040-inttypes格式宏与定宽整数输出.md)
+- [041 · 存库存和算库存，怎样选 uint_least16_t 和 uint_fast16_t](notes/041-least和fast整数的选择.md)
