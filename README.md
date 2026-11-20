@@ -35,3 +35,4 @@
 - [033 · short 与 unsigned short：存屏幕坐标和 RGB565 颜色](notes/033-short与unsigned-short.md)
 - [034 · long 与 long long：为什么同是 x64，long 的大小还会不同](notes/034-long与long-long及CPU架构.md)
 - [035 · sizeof 与 size_t：sizeof(short) 得到的 2 该怎么读](notes/035-size_t类型与sizeof的使用.md)
+- [036 · 定宽整数：什么时候用 int32_t，怎样查出数值变错的原因](notes/036-定宽整数与格式化输出.md)
