@@ -47,3 +47,4 @@
 - [045 · 定义并输出 float：为什么 48.3f 打印成 48.299999](notes/045-float的定义与输出.md)
 - [046 · 同一个 0.1F，怎样读懂 %.20f、%E 和 %A 的输出](notes/046-浮点近似值与printf输出格式.md)
 - [047 · 为什么 FLT_MIN 减半仍为正，FLT_TRUE_MIN 减半却为零？](notes/047-浮点上溢与次正规数.md)
+- [048 · 怎样在 float、double 和 long double 之间选择](notes/048-浮点类型的选择.md)
