@@ -111,3 +111,4 @@
 - [109 · 条件一开始就为假，while 和 do-while 各跑几圈？](notes/109-do-while与while的区别.md)
 - [110 · 游戏菜单怎样先显示一次，选 3 才退出？](notes/110-游戏菜单案例-dowhile的实际使用.md)
 - [111 · 猜数游戏怎样提示大小，遇到无效输入又该从哪里重试？](notes/111-随机数猜数游戏案例-dowhile练习.md)
+- [112 · 为什么输入负数用 continue，输入 0 用 break？](notes/112-continue的用法.md)
